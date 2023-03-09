@@ -47,7 +47,7 @@
 }
 
 .descrição__titulo-livro {
-  color: var(--azul);
+  color: var(--azul-degrade);
   font-size: 18px;
   font-weight: 700;
   margin: 0.5em 0;
@@ -67,4 +67,14 @@
   color: var(--branco);
   font-weight: 700;
   text-decoration: none;
+  margin: 1em 0 0 0;
+}
+.descrição__titulo-autora {
+  color: #002f52;
+  font-weight: 700;
+  font-size: 18px;
+  margin: 0.5em 0;
+}
+.descrição__estrela {
+  margin: 0.5em 0;
 }
